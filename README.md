@@ -13,7 +13,7 @@ Para ejecutar y trabajar con este proyecto, necesitas tener instalados los sigui
 1. **Java Development Kit (JDK)**: Requiere JDK 8 o superior.
 2. **Maven**: Herramienta de gestión y construcción de proyectos.
 3. **NetBeans IDE**: Entorno de desarrollo integrado recomendado para este proyecto.
-4. **MongoDB**: Base de datos NoSQL utilizada para almacenar los datos del proyecto.
+4. **MongoDB**: Base de datos NoSQL utilizada para almacenar los datos del proyecto junto con la bd "facturas" y la colección "facturas". 
 5. **Archivo POM**: Necesario tener actualizadas las dependencias.
 
 
