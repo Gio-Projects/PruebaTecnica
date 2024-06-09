@@ -17,13 +17,3 @@ Para ejecutar y trabajar con este proyecto, necesitas tener instalados los sigui
 5. **Archivo POM**: Necesario tener actualizadas las dependencias.
 
 
-## Instalación y Configuración
-
-### Java
-
-Asegúrate de tener el JDK instalado. Puedes descargarlo desde [Oracle](https://www.oracle.com/java/technologies/javase-downloads.html) o utilizar OpenJDK.
-
-Para verificar la instalación, ejecuta:
-
-```bash
-java -version
