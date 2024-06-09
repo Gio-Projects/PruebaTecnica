@@ -14,6 +14,8 @@ Para ejecutar y trabajar con este proyecto, necesitas tener instalados los sigui
 2. **Maven**: Herramienta de gestión y construcción de proyectos.
 3. **NetBeans IDE**: Entorno de desarrollo integrado recomendado para este proyecto.
 4. **MongoDB**: Base de datos NoSQL utilizada para almacenar los datos del proyecto.
+5. **Archivo POM**: Necesario tener actualizadas las dependencias.
+
 
 ## Instalación y Configuración
 
