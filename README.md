@@ -1,4 +1,4 @@
-# PruebaT-cnica
+# PruebaTécnica
 
 # Documentación del Proyecto
 
